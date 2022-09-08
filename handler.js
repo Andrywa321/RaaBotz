@@ -35,14 +35,14 @@ module.exports = {
         global.author = 'Made By Claraa © 2022'
         global.packname2 = 'Made With'
         global.author2 = 'Raa Bot By Claraa © 2022'
-        global.wm3 = '·͟͟͟͟͟͟͞͞͞͞͞͞Made By Claraa˚'
-        global.wm2 = '©𝙍𝙖𝙖-𝘽𝙤𝙩𝙯-𝙈𝘿' + ' ' + 'By 𝐂𝐥𝐚𝐫𝐚𝐚'
-        global.wm = '© 𝙍𝙖𝙖-𝘽𝙤𝙩𝙯--𝙈𝘿'
+        global.wm3 = '·͟͟͟͟͟͟͞͞͞͞͞͞Made By Andry Za Apchier˚'
+        global.wm2 = '© Eɪɢʜᴛʏ-Sɪx Mᴅ' + ' ' + 'By Andry Za Apchier'
+        global.wm = '© Eɪɢʜᴛʏ-Sɪx Mᴅ'
         global.colong1 = 'Ciss 📸'
-        global.colong2 = 'By Claraa'
+        global.colong2 = 'By Andry Za Apchier'
         global.kontak2 = [
-        ['62895604670507', 'Claraa', 'Creator Bot', 'Clarz939@support.com', true],
-        ['79217628068', 'Raa Botz-MD', 'Bot WhatsApp', 'Just Bot', true]
+        ['6285894148101', 'Andry Za Apchier', 'Creator Bot', 'Clarz939@support.com', true],
+        ['6285894148101', 'Eɪɢʜᴛʏ-Sɪx Mᴅ', 'Bot WhatsApp', 'Just Bot', true]
         ]
         global.bg = await (await fetch(img)).buffer()
         global.time = require('moment-timezone').tz('Asia/Jakarta').format('HH:mm:ss')
